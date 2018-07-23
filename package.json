@@ -2,7 +2,7 @@
   "name": "personal-site-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://tannervelten.github.io/personal-site-v2",
+  "homepage": "https://www.tannervelten.com/",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
