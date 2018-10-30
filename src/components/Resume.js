@@ -4,8 +4,10 @@ import { withStyles } from '@material-ui/core/styles';
 
 const styles = {
   resume: {
-    height: '100vh',
-    width: '100vw',
+    height: 'calc(100vh - 3.51px)',
+    padding: '0px',
+    margin: '0 auto',
+    width: '100%',
   },
 };
 
